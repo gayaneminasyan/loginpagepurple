@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box
+  }
+  body{
+    background-image: url(https://assets.kpmg/is/image/kpmg/white-connected-dots-ball-against-purple-background:cq5dam.web.1400.350);
+  }
+  #id_div_wrapper{
+    background-color: #580658; 
+    width: 280px;
+    height: 330px;
+    margin: 0 auto;
+    margin-top: 180px;
+    border-radius: 5px;
+  }
+  
+  #id_div1,
+  #id_div2,
+  #id_div3,
+  #id_div4,
+  #id_div5 {
+    width: 100%;
+  }
+  
+  #id_div1 {
+    color: white;
+     text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    margin-top: 15px;
+  }
+  
+  #id_div2 {
+    border:none;
+    color: white;
+  }
+  #id_div3>p{
+    font-family:'Source Sans Pro', sans-serif ;
+  }
+  .button{
+    background-color: #7F5A89;
+    border: none;
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-radius: 3px;
+  }
+  #google{
+    margin-left: 25px;
+  }
+#fb{
+  margin-left: 20px;
+  
+}
+#googlelogo,
+#fblogo
+{
+  width:20px ;
+  height: 20px;
+  border-radius: 50%;
+  float: left;
+}
+#id_div3{
+  text-align: center;
+  color: white;
+  font-size: small;
+}
+#id_div4>label,
+#id_div5>label
+{
+  color: white;
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  margin-left: 25px;
+
+}
+.inputs{
+  border: none;
+  color: white;
+  width: 230px;
+  height: 30px;
+  margin-left: 25px;
+  border-radius: 3px;
+  background-color: #280B3F;
+}
+#login{
+  width:230px ;
+  height: 33px;
+  border: none;
+  border-radius: 3px;
+  margin-left: 25px;
+  margin-top: 15px;
+  color: white;
+  background-color: #FFB392;
+}
+#text2>span,
+#a
+{
+  color: white;
+  text-decoration: none;
+  font-family: 'Finlandica', sans-serif;
+  font-size: small;
+}
+#text2{
+  margin-left: 540px ;
+  height: 20px;
+  width: 709px;
+}
+.fb{
+  float: right;
+}
+.google{
+  float: left;
+}
